@@ -9,16 +9,13 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
-          </p>
-          <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
-          </p>
+          I am a passionate and results-driven Full Stack Web Developer with a flair 
+          for crafting innovative and seamless digital experiences. 
+          <br/>I specialize in translating ideas into robust, user-friendly applications. 
+          <br/>Whether it's front-end magic or back-end mastery, I thrive on turning 
+          complex challenges into elegant solutions.
+          <br/><br/>Let's build something extraordinary together!
+          </p>        
         </div>
       </div>
     </section>
