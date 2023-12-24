@@ -72,7 +72,7 @@ function Footer() {
                 to="testimonial"
                 className="text-md"
               >
-                Testimonials
+                My Studies
               </Link>
             </li>
           </ul>

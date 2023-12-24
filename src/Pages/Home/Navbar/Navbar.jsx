@@ -103,7 +103,7 @@ function Navbar() {
               to="testimonial"
               className="navbar--content"
             >
-              Testimonials
+              My Studies
             </Link>
           </li>
         </ul>

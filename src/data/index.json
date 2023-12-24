@@ -4,25 +4,25 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "My skills: React, Redux, Javascript, Typescript, Adobe Illustrator, CSS/HTML, Sass, Bootstrap, chakra UI, Firebase"
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "My Skills: Sequelize, Express, NodeJS, auth0, PostgreSql, MongoDb, MySql, Javascript, Typescript, Java, C#"
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Proficiency in graphic design software: Adobe Photoshop, Illustrator, AfterEffects, Photoshop. Skills in responsive design. Focus on designing for the end-user"
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Understanding of SEO principles, Ability to troubleshoot issues and solve problems within the Webflow environment."
     }
   ],
   "portfolio": [
@@ -42,36 +42,36 @@
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/MySeam.png",
+      "title": "My Seam",
+      "description": "Marketplace dedicated to the trade of artisanal items, with payment gateway and user authentication. Administrator control panel, relational database (PostgreSql) and image management in the cloud with Supabase",
+      "link": "https://my-seam.vercel.app/"
     }
   ],
   "testimonial": [
     {
       "id": "1",
       "count": "5",
-      "src": "./img/avatar-image.png",
+      "src": "./img/Henry.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "author_name": "Full Stack Web Developer",
+      "author_designation": "Soy Henry"
     },
     {
       "id": "2",
       "count": "5",
-      "src": "./img/avatar-image-1.png",
+      "src": "./img/Ies21.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
+      "author_name": "Computer sistem analyst",
+      "author_designation": "Ies Siglo 21"
     },
     {
       "id": "3",
       "count": "5",
-      "src": "./img/avatar-image-2.png",
+      "src": "./img/Ies21.png",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "author_name": "Videogames and Virtual simulations",
+      "author_designation": "Ies Siglo 21"
     }
   ]
 }

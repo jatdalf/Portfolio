@@ -389,8 +389,12 @@ h2 {
 .testimonial--section--card--author--detail {
   display: flex;
   align-items: center;
-  gap: 21.3px;
+  gap: 21.3px;  
 }
+.testimonial--section--card--author--detail > img {
+  width: 75px;
+}
+
 .testimonial--author--name {
   font-weight: 600;
   color: var(--heading-color);
