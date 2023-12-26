@@ -61,15 +61,15 @@
       "id": "2",
       "count": "5",
       "src": "./img/Ies21.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Computer sistem analyst",
+      "description": "Design of computer systems, using agile methodologies, programming and software development in various languages and environments. ",
+      "author_name": "Computer system analyst",
       "author_designation": "Ies Siglo 21"
     },
     {
       "id": "3",
       "count": "5",
       "src": "./img/Ies21.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Dev apps for the purposes of: advertising (advergame), educating (edugame), marketing (viralgame) and training (trainingame)",
       "author_name": "Videogames and Virtual simulations",
       "author_designation": "Ies Siglo 21"
     }

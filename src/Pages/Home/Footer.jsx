@@ -5,8 +5,8 @@ function Footer() {
   return (
     <footer className="footer--container">
       <div className="footer--link--container">
-        <div>
-          <img src="./img/logo.svg" alt="Logoipsum" />
+        <div className="footer--image">
+          <img src="./img/logoSc1.svg" alt="Scorpion logo" />
         </div>
         <div className="footer--items">
           <ul>

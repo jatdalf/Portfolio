@@ -494,6 +494,10 @@ input[type="checkbox"] {
   align-items: center;
   align-self: stretch;
 }
+.footer--image > img {
+  width: 42px;
+}
+
 .footer--items > ul {
   list-style: none;
   display: flex;
@@ -513,6 +517,7 @@ input[type="checkbox"] {
   flex-shrink: 0;
   text-decoration: none;
 }
+
 .divider {
   margin: 106px 0 42.67px;
   height: 1.333px;
