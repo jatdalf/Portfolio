@@ -185,7 +185,7 @@ function Footer() {
                 to="Privacy_Policy"
                 className="text-sm"
               >
-                Privacy Policy
+                December
               </Link>
             </li>
             <li>
@@ -198,7 +198,7 @@ function Footer() {
                 to="Terms_of_Service"
                 className="text-sm"
               >
-                Terms of Service
+                2023
               </Link>
             </li>
             <li>
@@ -211,7 +211,7 @@ function Footer() {
                 to="Cookies_Settings"
                 className="text-sm"
               >
-                Cookies Settings
+                🎅🏼
               </Link>
             </li>
           </ul>
