@@ -55,9 +55,9 @@ export default function ContactMe() {
           <span className="text-md">Choose a topic</span>
           <select id="choose-topic" className="contact--input text-md">
             <option>Select One...</option>
-            <option>Item 1</option>
-            <option>Item 2</option>
-            <option>Item 3</option>
+            <option>Get in touch</option>
+            <option>Advice or suggestion</option>
+            <option>Other</option>
           </select>
         </label>
         <label htmlFor="message" className="contact--label">
