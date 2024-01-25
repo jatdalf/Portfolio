@@ -125,7 +125,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.twitter.com/"
+                href="https://twitter.com/jatdalf"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
