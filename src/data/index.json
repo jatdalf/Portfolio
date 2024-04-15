@@ -38,7 +38,7 @@
       "src": "./img/realstate.png",
       "title": "Real State Webpage",
       "description": "Webpage dedicated to the management of rentals and sales of properties and lots. Developed in React, with Google Maps API, and database.",
-      "link": "https://federicorizzo.vercel.app/"
+      "link": "https://rizzo-realstate.vercel.app/"
     },
     {
       "id": "3",
